@@ -5,6 +5,23 @@ class Employee {
     this.id = id;
     this.email = email;
   }
+
+  getName() {
+    return this.name;
+  }
+
+  getId() {
+      return this.id
+  }
+
+  getEmail() {
+      return this.email
+
+  }
+
+  getRole() {
+      console.log("Get Role Method")
+  }
 }
 
 const alice = new Employee("Alice", 100, "test@test.com");
