@@ -1,10 +1,14 @@
 # Team-Generator
 
+![Horiseon Final Image](images/OUTPUT.png)
 ## Description
 
 This application builds a Node CLI that takes in information about employees and generates an HTML webpage that displays summaries for each person.
 
-![Horiseon Final Image](images/OUTPUT.png)
+Video of app functionality video:
+
+![Video of app functionality:](images/video.gif)
+
 ## Table of Contents
 
 * [Installation](#installation)
