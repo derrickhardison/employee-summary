@@ -5,9 +5,12 @@
 
 This application builds a Node CLI that takes in information about employees and generates an HTML webpage that displays summaries for each person.
 
-Video of app functionality video:
+Video of app functionality video and link to the video below:
 
 ![Video of app functionality:](images/video.gif)
+
+[Link to video of functionality](https://drive.google.com/file/d/1yB6zVrhCkTVugQ2Q4kHzB2uO5uvu-k9n/view)
+
 
 ## Table of Contents
 
