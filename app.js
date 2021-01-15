@@ -91,7 +91,7 @@ function createIntern() {
       },
       {
         type: "input",
-        name: "officeNumber",
+        name: "school",
         message: "What is the intern's school?",
       },
     ])
@@ -128,7 +128,7 @@ function createEngineer() {
       },
       {
         type: "input",
-        name: "officeNumber",
+        name: "github",
         message: "What is the engineer's Github?",
       },
     ])
